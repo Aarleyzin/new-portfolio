@@ -6,5 +6,6 @@ out
 .env*
 !.env.example
 .claude/
+SKILL.MD
 *.tsbuildinfo
 .DS_Store
